@@ -1,0 +1,5 @@
+result = input()
+data = result.split()
+print(data)
+data =  list(map(int,data))
+print(data)
